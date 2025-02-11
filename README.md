@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Financial App**<br><br>- 🌱 I’m currently learning **FastAPI, MySQL.**<br><br>- 💬 Ask me about **Python, JavaScript, Express.js**<br><br>- 📫 How to reach me **gustavonievasjofre8@gmail.com**<br><br>- ⚡ Fun fact **I love learn History, I like to play puzzle style games and chess**
+- 🔭 I’m currently working on **Agenda**<br><br>- 🌱 I’m currently learning **FastAPI, MySQL.**<br><br>- 💬 Ask me about **Python, JavaScript, Express.js**<br><br>- 📫 How to reach me **gustavonievasjofre8@gmail.com**<br><br>- ⚡ Fun fact **I'm a scout (I made a Python biblog about it), I love learning History, I like to play puzzle type games and chess**.
 
 
 ## 🌐 Socials:
